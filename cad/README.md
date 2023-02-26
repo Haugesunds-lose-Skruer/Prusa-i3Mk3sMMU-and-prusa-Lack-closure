@@ -19,3 +19,8 @@ it is the printer that is gonna fit into the first level of the closure.
 ## Current closure preview
 
 <img src="/cad/pictures/progress.2022.02.25.png" style="width:50%; display: block; background-color: transparent;"/>
+
+
+## TODO:
+
+- [ ] 
